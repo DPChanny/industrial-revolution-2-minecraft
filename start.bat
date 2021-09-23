@@ -1,0 +1,1 @@
+java -jar -Xmx6G s.jar
