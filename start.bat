@@ -1,1 +1,1 @@
-java -jar -Xmx6G s.jar
+.\jre\bin\java -jar -Xmx6G s.jar
