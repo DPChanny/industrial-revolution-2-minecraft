@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2021-09-25 10:45:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2021-09-22 18:47:06 +0900"
@@ -504,6 +510,7 @@
       "minecraft:spider": "2021-09-19 18:26:14 +0900",
       "minecraft:creeper": "2021-09-19 18:06:47 +0900",
       "minecraft:phantom": "2021-09-23 13:05:16 +0900",
+      "minecraft:witch": "2021-09-24 23:07:32 +0900",
       "minecraft:enderman": "2021-09-19 18:12:13 +0900",
       "minecraft:silverfish": "2021-09-23 17:02:46 +0900",
       "minecraft:zombie": "2021-09-19 18:07:06 +0900"
@@ -747,6 +754,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2021-09-19 20:11:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2021-09-25 10:45:09 +0900"
     },
     "done": true
   },
