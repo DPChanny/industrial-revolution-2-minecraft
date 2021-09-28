@@ -1716,6 +1716,7 @@
       "cooked_cod": "2021-09-23 12:51:26 +0900",
       "bread": "2021-09-22 16:09:50 +0900",
       "rotten_flesh": "2021-09-19 18:12:57 +0900",
+      "cooked_rabbit": "2021-09-28 23:17:17 +0900",
       "cooked_chicken": "2021-09-23 15:59:57 +0900",
       "cooked_salmon": "2021-09-23 13:32:08 +0900"
     },
@@ -1891,6 +1892,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2021-09-28 17:32:38 +0900",
       "minecraft:cow": "2021-09-22 15:35:50 +0900",
       "minecraft:chicken": "2021-09-23 16:01:38 +0900"
     },
@@ -2828,6 +2830,10 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/tabby.png": "2021-09-28 16:53:04 +0900",
+      "textures/entity/cat/white.png": "2021-09-28 17:31:53 +0900",
+      "textures/entity/cat/ragdoll.png": "2021-09-28 17:32:18 +0900",
+      "textures/entity/cat/british_shorthair.png": "2021-09-28 23:23:17 +0900",
       "textures/entity/cat/persian.png": "2021-09-25 20:51:52 +0900"
     },
     "done": false
