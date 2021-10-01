@@ -2832,6 +2832,8 @@
     "criteria": {
       "textures/entity/cat/tabby.png": "2021-09-28 16:53:04 +0900",
       "textures/entity/cat/white.png": "2021-09-28 17:31:53 +0900",
+      "textures/entity/cat/jellie.png": "2021-10-01 17:10:16 +0900",
+      "textures/entity/cat/siamese.png": "2021-10-01 17:10:19 +0900",
       "textures/entity/cat/ragdoll.png": "2021-09-28 17:32:18 +0900",
       "textures/entity/cat/british_shorthair.png": "2021-09-28 23:23:17 +0900",
       "textures/entity/cat/persian.png": "2021-09-25 20:51:52 +0900"
