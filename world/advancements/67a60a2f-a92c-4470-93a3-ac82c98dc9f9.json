@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-10-02 22:20:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2021-09-25 23:37:04 +0900"
@@ -245,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-10-02 21:13:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-09-22 15:45:14 +0900"
@@ -278,6 +290,12 @@
   "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
       "has_rabbit": "2021-09-26 20:24:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-10-02 22:20:59 +0900"
     },
     "done": true
   },
@@ -682,6 +700,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-09-22 14:08:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2021-10-02 21:13:41 +0900"
     },
     "done": true
   },
@@ -1203,6 +1227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-10-02 22:20:59 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-09-19 18:03:08 +0900"
@@ -1422,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-10-02 21:13:41 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2021-09-26 13:48:50 +0900"
@@ -1545,6 +1581,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-09-19 20:36:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-10-02 22:20:59 +0900"
     },
     "done": true
   },
@@ -1711,6 +1753,7 @@
       "cooked_beef": "2021-09-19 20:11:48 +0900",
       "chorus_fruit": "2021-09-25 23:37:14 +0900",
       "baked_potato": "2021-09-22 15:19:39 +0900",
+      "beef": "2021-10-02 17:51:11 +0900",
       "apple": "2021-09-19 18:30:08 +0900",
       "potato": "2021-09-22 15:16:43 +0900",
       "cooked_cod": "2021-09-23 12:51:26 +0900",
@@ -2270,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2021-10-02 19:21:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-09-19 21:15:12 +0900"
@@ -2720,6 +2769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2021-10-02 19:21:54 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2021-09-25 23:20:17 +0900"
@@ -2753,6 +2808,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2021-09-25 16:49:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-10-02 22:20:59 +0900"
     },
     "done": true
   },
@@ -2849,6 +2910,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2021-09-23 15:52:41 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-10-02 22:20:59 +0900"
     },
     "done": true
   },
