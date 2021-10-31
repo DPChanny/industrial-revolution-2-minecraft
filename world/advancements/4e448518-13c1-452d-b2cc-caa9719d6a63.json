@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-10-31 18:05:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-09-19 18:47:32 +0900"
@@ -704,6 +710,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-09-19 18:11:07 +0900",
+      "minecraft:ghast": "2021-10-31 19:51:39 +0900",
       "minecraft:hoglin": "2021-09-19 21:26:00 +0900",
       "minecraft:spider": "2021-09-19 18:33:44 +0900",
       "minecraft:creeper": "2021-09-19 18:06:14 +0900",
@@ -1271,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2021-10-31 19:53:24 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-19 18:31:22 +0900"
@@ -1286,6 +1299,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2021-09-19 18:27:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-10-31 18:05:27 +0900"
     },
     "done": true
   },
@@ -1540,7 +1559,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2021-09-19 21:02:03 +0900",
       "minecraft:soul_sand_valley": "2021-09-22 13:54:14 +0900",
-      "minecraft:nether_wastes": "2021-10-02 14:51:32 +0900"
+      "minecraft:nether_wastes": "2021-10-02 14:51:32 +0900",
+      "minecraft:warped_forest": "2021-10-31 19:53:17 +0900"
     },
     "done": false
   },
@@ -1933,6 +1953,7 @@
       "cooked_porkchop": "2021-09-19 18:37:57 +0900",
       "cooked_beef": "2021-09-23 18:11:05 +0900",
       "chorus_fruit": "2021-09-25 23:37:11 +0900",
+      "apple": "2021-10-31 18:12:52 +0900",
       "potato": "2021-09-26 00:23:37 +0900",
       "rabbit": "2021-09-26 16:06:12 +0900",
       "bread": "2021-09-19 20:43:07 +0900",
@@ -1946,6 +1967,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-09-19 17:58:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-10-31 18:05:27 +0900"
     },
     "done": true
   },
@@ -1964,6 +1991,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-09-19 18:27:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-10-31 19:53:24 +0900"
     },
     "done": true
   },
@@ -2429,6 +2462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-10-31 18:05:27 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-09-19 20:29:10 +0900"
@@ -2672,6 +2711,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-09-19 20:29:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-10-31 19:52:06 +0900"
     },
     "done": true
   },

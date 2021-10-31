@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2021-10-31 18:53:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2021-09-22 18:47:06 +0900"
@@ -521,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-09-22 14:29:16 +0900"
@@ -625,6 +637,7 @@
       "minecraft:spider": "2021-09-19 18:26:14 +0900",
       "minecraft:creeper": "2021-09-19 18:06:47 +0900",
       "minecraft:phantom": "2021-09-23 13:05:16 +0900",
+      "minecraft:zombified_piglin": "2021-10-31 19:57:55 +0900",
       "minecraft:witch": "2021-09-24 23:07:32 +0900",
       "minecraft:husk": "2021-09-26 16:10:10 +0900",
       "minecraft:shulker": "2021-09-25 23:30:58 +0900",
@@ -649,6 +662,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-10-31 20:19:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-09-22 15:08:03 +0900"
@@ -670,6 +689,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2021-09-19 19:19:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
     },
     "done": true
   },
@@ -811,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-09-23 15:35:33 +0900"
@@ -892,6 +923,12 @@
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2021-09-22 18:50:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
     },
     "done": true
   },
@@ -1311,6 +1348,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-09-19 18:03:08 +0900"
@@ -1371,6 +1414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2021-09-23 15:52:41 +0900"
@@ -1419,6 +1468,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2021-09-19 21:12:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
     },
     "done": true
   },
@@ -1656,6 +1711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-09-22 14:08:11 +0900"
@@ -1757,6 +1818,7 @@
       "apple": "2021-09-19 18:30:08 +0900",
       "potato": "2021-09-22 15:16:43 +0900",
       "cooked_cod": "2021-09-23 12:51:26 +0900",
+      "pumpkin_pie": "2021-10-31 18:37:12 +0900",
       "bread": "2021-09-22 16:09:50 +0900",
       "rotten_flesh": "2021-09-19 18:12:57 +0900",
       "cooked_rabbit": "2021-09-28 23:17:17 +0900",
@@ -2583,6 +2645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2021-09-25 23:30:59 +0900"
@@ -2652,6 +2720,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-09-22 15:08:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-10-31 20:08:43 +0900"
     },
     "done": true
   },
@@ -2904,6 +2978,18 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-09-22 18:50:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-10-31 18:10:46 +0900"
     },
     "done": true
   },
