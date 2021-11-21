@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-11-19 13:36:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2021-09-19 20:36:14 +0900"
@@ -1172,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2021-11-19 13:36:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2021-09-19 18:35:02 +0900"
@@ -1187,6 +1199,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2021-09-19 18:54:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2021-11-19 13:36:38 +0900"
     },
     "done": true
   },
@@ -1851,6 +1869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-11-19 13:36:34 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-09-19 18:03:08 +0900"
@@ -2114,6 +2138,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-09-19 18:15:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-11-19 13:36:38 +0900"
     },
     "done": true
   },
@@ -2465,6 +2495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2021-11-19 13:36:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2021-09-22 18:49:30 +0900"
@@ -2501,6 +2537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2021-11-19 13:36:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-09-19 21:12:21 +0900"
@@ -2510,6 +2552,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2021-09-19 18:37:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-11-19 13:36:38 +0900"
     },
     "done": true
   },
@@ -2630,6 +2678,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2021-09-26 20:32:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_warped_planks": "2021-11-19 13:36:38 +0900"
     },
     "done": true
   },
@@ -2963,6 +3017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2021-11-19 13:36:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/tabby.png": "2021-09-28 16:53:04 +0900",
@@ -3062,6 +3122,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bonemeal": "2021-09-19 18:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2021-11-19 13:36:38 +0900"
     },
     "done": true
   },
